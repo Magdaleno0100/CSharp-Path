@@ -1,0 +1,6 @@
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\bin\Debug\Grades.exe
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\bin\Debug\Grades.pdb
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\obj\Debug\Grades.exe
+D:\Magda\GitHub\C#Path\Beginner\ClassesAndObjects\Grades\Grades\obj\Debug\Grades.pdb
